@@ -1,4 +1,4 @@
-# :musical_note: Drum Kit
+# Drum Kit
  
  JS learning with drum sounds, using mouse and key events
 
